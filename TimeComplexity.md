@@ -30,7 +30,7 @@ const sum = a + b;
 - Then for nested loops, it becomes O(n^2)
 
 
-## Summary of Time Complexity
+##  Summary of Time Complexity
 
 In this lesson we learned all about Time complexity.
 
